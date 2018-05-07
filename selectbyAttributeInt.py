@@ -1,0 +1,1 @@
+arcpy.SelectLayerByAttribute_management('HUC4Watersheds', 'NEW_SELECTION', 'SizeClass = 5')

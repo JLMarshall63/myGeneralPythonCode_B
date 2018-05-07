@@ -1,0 +1,1 @@
+arcpy.Select_analysis(r'C:\Users\jlmar\OneDrive\Pictures\Documents\ArcGIS\Default.gdb\HUC4Watersheds_Select', "Name <> 'Lower Willamette'")
